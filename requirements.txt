@@ -1,0 +1,9 @@
+jupyter
+jupyterlab
+mpmath
+numpy
+scipy
+matplotlib
+bokeh
+ipywidgets
+plotly
